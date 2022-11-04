@@ -7,8 +7,8 @@ I used the correlation matrix to identify two positive variables. So I found the
 The manager who is a top performer has the characteristics
 - High hour flag
 - The average score of 292
-- The average of 24 customers in your account
-- The average of 25 in your group
+- The average of 24 customers 
+- The average of 25 group size
 - And the average of 4 years of working time
 
 The visualization is avaiable on:
